@@ -1,0 +1,95 @@
+<table class="em_full_wrap" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" bgcolor="#efefef">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<table class="em_main_table" style="width: 710.5px;" border="0" cellspacing="0" cellpadding="0" align="center"><!--Header section-->
+<tbody>
+<tr>
+<td class="em_padd" style="padding: 10px; width: 666.5px;" align="center" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="font-family: 'Open Sans', Arial, sans-serif; font-size: 12px; line-height: 15px; color: #0d1121;" align="left" valign="middle"><a style="cursor: pointer;" href="https://shycocancorp.com/ae/" target="_blank" rel="noopener"><img src="https://shycocancorp.com/ae/wp-content/uploads/2021/05/FINAL-LOGO-Img1.png" alt="" width="200" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!--//Header section ends--><!--Banner section-->
+<tr>
+<td style="width: 666.5px;" align="center" valign="middle" bgcolor="#ffffff">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td align="center" valign="middle"><img src="https://shycocancorp.com/ae/wp-content/uploads/2021/05/LP-Image-New-Img1.png" alt="Shycocan Product" width="700" border="0" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="width: 666.5px;" align="center" valign="middle" bgcolor="#efefef">
+<table style="margin: 20px 0px;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td align="center" valign="middle"><img src="https://shycocancorp.com/ae/wp-content/uploads/2021/05/Logo-1.png" alt="Shycocan Product" width="130" border="0" /> <a style="display: table; color: #fff; background-color: #f05926; border-radius: 100px 100px 100px 100px; padding: 6px 11px 7px 11px; margin-top: 20px; text-decoration: none;" href="https://www.amazon.ae/dp/B095SYT2XY" target="_blank" rel="noopener"> BUY NOW</a></td>
+<td align="center" valign="middle"><img src="https://shycocancorp.com/ae/wp-content/uploads/2021/05/Logo-4.png" alt="Shycocan Product" width="130" border="0" /> <a style="display: table; color: #fff; background-color: #f05926; border-radius: 100px 100px 100px 100px; padding: 6px 11px 7px 11px; margin-top: 20px; text-decoration: none;" href="https://uae.emaxme.com/product/14892/shycocan---virus-attenuating-device---shcc-915" target="_blank" rel="noopener"> BUY NOW</a></td>
+<td align="center" valign="middle"><img src="https://shycocancorp.com/ae/wp-content/uploads/2021/05/Logo-3.png" alt="Shycocan Product" width="130" border="0" /> <a style="display: table; color: #fff; background-color: #f05926; border-radius: 100px 100px 100px 100px; padding: 6px 11px 7px 11px; margin-top: 20px; text-decoration: none;" href="https://www.jackyselectronics.com/products/shycocan-virus-attenuating-device-shcc-915/15729" target="_blank" rel="noopener"> BUY NOW</a></td>
+<td align="center" valign="middle"><img src="https://shycocancorp.com/ae/wp-content/uploads/2021/06/Noon-Logo-1.png" alt="Shycocan Product" width="130" border="0" /> <a style="display: table; color: #fff; background-color: #f05926; border-radius: 100px 100px 100px 100px; padding: 6px 11px 7px 11px; margin-top: 20px; text-decoration: none;" href="https://www.noon.com/uae-en/product/N47881618A/p?o=e68f8175e93572cc" target="_blank" rel="noopener"> BUY NOW</a></td>
+<td align="center" valign="middle"><img src="https://shycocancorp.com/ae/wp-content/uploads/2021/06/E-City-Logo-1.png" alt="Shycocan Product" width="130" border="0" /> <a style="display: table; color: #fff; background-color: #f05926; border-radius: 100px 100px 100px 100px; padding: 6px 11px 7px 11px; margin-top: 20px; text-decoration: none;" target="_blank" rel="noopener"> IN-STORE</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!--//Banner section ends--><!--Content Text Section-->
+<tr>
+<td class="em_padd" style="padding: 20px; width: 666.5px;" align="center" valign="top" bgcolor="#f05926">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="left">
+<tbody>
+<tr>
+<td style="font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; line-height: 30px; color: #ffffff;" align="center" valign="top">
+<p style="text-align: left; color: #ffffff;"><strong>Hi {name-1}!</strong></p>
+<p style="text-align: left; color: #ffffff;">Thank you for writing in. We are pleased to share details about the world's first proven technology to bring life back to normal and normal back to business. By disabling the virus in the pandemic and the entire family of the Influenza virus as well with 99.9% efficacy in enclosed spaces as proven in multiple virology lab tests, Shycocan is the smartest choice you will make to protect your business and your loved ones in these times. Attached are a short e-flyer with details about this revolutionary breakthrough technology. And also a link to our corporate video that shows you how it works. </p>
+<p style="text-align: left; color: #ffffff;">We will be in touch shortly to help you bring things back to normal.</p>
+<p style="text-align: left; color: #ffffff;">Cheers! <br />Team Shycocan</p>
+<p><a style="color: #ffffff;" href="https://shycocancorp.com/ae/wp-content/uploads/2021/05/Flyer-Pdf.pdf"><img src="https://shycocancorp.com/ae/wp-content/uploads/2021/05/pdf.png" alt="" width="22" /><span style="color: #ffffff;"> Download eFlyer</span></a><span style="color: #ffffff;"> | <a style="color: #ffffff;" href="https://shycocancorp.com/ae/wp-content/uploads/2021/05/E-Brochure.pdf"><img src="https://shycocancorp.com/ae/wp-content/uploads/2021/05/pdf.png" alt="" width="22" /> Download eBrochure</a> | <a style="color: #ffffff;" href="https://shycocancorp.com/ae/wp-content/uploads/2021/05/Shycocan-Ad-1-30-Sec-International.mp4"><img src="https://shycocancorp.com/ae/wp-content/uploads/2021/05/multimedia.png" alt="" width="22" /> Watch The Video</a></span></p>
+</td>
+</tr>
+<!--—End-this is space of 25px to separate two paragraphs ----></tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="em_padd" style="padding: 38px 30px;" align="center" valign="top" bgcolor="#f6f7f8">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody><!--Social Media links row -->
+<tr>
+<td style="padding-bottom: 16px;" align="center" valign="top">
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr><!--Facebook Link -->
+<td align="center" valign="top">
+<p><a style="cursor: pointer; margin: 4px;" href="https://www.facebook.com/ShycocanMiddleEast/" target="_blank" rel="noopener"><img src="https://shycocancorp.com/ae/wp-content/uploads/2021/05/facebook.png" alt="" width="26" /></a> <a style="cursor: pointer; margin: 4px;" href="https://twitter.com/Shycocan_ME" target="_blank" rel="noopener"><img src="https://shycocancorp.com/ae/wp-content/uploads/2021/05/twitter.png" alt="" width="26" /></a> <a style="cursor: pointer; margin: 4px;" href="https://www.instagram.com/shycocanmiddleeast/?hl=en" target="_blank" rel="noopener"><img src="https://shycocancorp.com/ae/wp-content/uploads/2021/05/instagram.png" alt="" width="26" /></a> <a style="cursor: pointer; margin: 4px;" href="https://www.linkedin.com/company/shycocanmiddleeast/" target="_blank" rel="noopener"><img src="https://shycocancorp.com/ae/wp-content/uploads/2021/05/linkedin.png" alt="" width="26" /></a> <a style="cursor: pointer; margin: 4px;" href="https://www.youtube.com/channel/UClVTdbYgTdNDAjyopjJ4ZZw/featured" target="_blank" rel="noopener"><img src="https://shycocancorp.com/ae/wp-content/uploads/2021/05/youtube.png" alt="" width="26" /></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!--Other links and info row -->
+<tr>
+<td style="font-family: 'Open Sans', Arial, sans-serif; font-size: 11px; line-height: 18px; color: #999999;" align="center" valign="top">© 2021 All Rights Reserved. | <a href="https://shycocancorp.com/ae/#Disclaimer" target="_blank" rel="noopener">Disclaimer</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- extra spacing to force the desktop layout in Gmail, using non-breaking spacing &nbsp; -->
+<div class="em_hide" style="white-space: nowrap; display: none; font-size: 0px; line-height: 0px;">                           </div>
